@@ -1,0 +1,120 @@
+Z: 6, Key Sequence Size: 10
+Encryption Time: 7 microseconds
+Decryption Time: 7 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 20
+Encryption Time: 8 microseconds
+Decryption Time: 8 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 30
+Encryption Time: 11 microseconds
+Decryption Time: 11 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 40
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 50
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 60
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 70
+Encryption Time: 6 microseconds
+Decryption Time: 6 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 80
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 90
+Encryption Time: 6 microseconds
+Decryption Time: 6 microseconds
+---------------------------------------
+Z: 6, Key Sequence Size: 100
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 10
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 20
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 30
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 40
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 50
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 60
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 70
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 80
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 90
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 7, Key Sequence Size: 100
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 10
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 20
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 30
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 40
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 50
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 60
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 70
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 80
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 90
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
+Z: 8, Key Sequence Size: 100
+Encryption Time: 5 microseconds
+Decryption Time: 5 microseconds
+---------------------------------------
