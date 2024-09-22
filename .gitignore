@@ -1,0 +1,65 @@
+# Игнорировать сборочные файлы
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Игнорировать объектные файлы и файлы промежуточной сборки
+*.o
+*.obj
+*.lo
+*.d
+
+# Игнорировать статические библиотеки
+*.lib
+*.a
+
+# Игнорировать динамические библиотеки
+*.dylib
+*.dll
+*.so
+
+# Игнорировать временные файлы компиляции
+*.gch
+*.pch
+*.ipch
+
+# Игнорировать файлы отладочных данных
+*.pdb
+*.ilk
+
+# Игнорировать файлы временных данных и IDE
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# Игнорировать CMake и Makefile артефакты
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+*.make
+*.ninja
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Игнорировать пользовательские настройки IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Игнорировать файлы системы контроля версий
+*.swp
+*.swo
+*.swn
+
+# Игнорировать файлы ОС
+.DS_Store
+Thumbs.db
